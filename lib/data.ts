@@ -1,18 +1,21 @@
 import { IProject } from '@/types';
 
 export const GENERAL_INFO = {
-    email: 'tasmirolislam@gmail.com',
+    email: 'myemail@gmail.com',
 
     emailSubject: "Let's collaborate on a project",
-    emailBody: 'Hi Tajmirul, I am reaching out to you because...',
+    emailBody: 'Hi Vaibhav Verma, I am reaching out to you because...',
 
-    oldPortfolio: 'https://www.legacy.me.toinfinite.dev',
-    upworkProfile: 'https://www.upwork.com/freelancers/tajmirul',
+    oldPortfolio: 'https://www.linkedin.com/in/vaibhav-verma-codes/',
+    upworkProfile: 'https://www.linkedin.com/in/vaibhav-verma-codes/',
 };
 
 export const SOCIAL_LINKS = [
-    { name: 'github', url: 'https://github.com/Tajmirul' },
-    { name: 'linkedin', url: 'https://www.linkedin.com/in/tajmirul' },
+    { name: 'github', url: 'https://www.linkedin.com/in/vaibhav-verma-codes/' },
+    {
+        name: 'linkedin',
+        url: 'https://www.linkedin.com/in/vaibhav-verma-codes/',
+    },
     { name: 'facebook', url: 'https://www.facebook.com/tajmirul.2000' },
     { name: 'Old Version', url: GENERAL_INFO.oldPortfolio },
 ];
@@ -286,23 +289,23 @@ export const PROJECTS: IProject[] = [
 
 export const MY_EXPERIENCE = [
     {
-        title: 'Software Engineer (Frontend)',
-        company: 'Strativ AB',
-        duration: 'Dec 2024 - Present',
+        title: 'Software Engineer (Full-time)',
+        company: 'Pride Global ',
+        duration: 'Sept 2024 - Present',
     },
     {
-        title: 'Frontend Developer',
-        company: 'Epikcoders',
-        duration: 'Oct 2023 - Nov 2024',
+        title: 'Application Development Consultant (Full-time)',
+        company: 'PwC',
+        duration: 'Oct 2023 - Aug 2024',
     },
     {
-        title: 'FRONTEND ENGINEER',
-        company: 'Anchorblock Technology',
-        duration: 'Oct 2022 - Sep 2023',
+        title: 'SENIOR FRONTEND ENGINEER (Full-time)',
+        company: 'HangingPanda Private Limited',
+        duration: 'Sept 2021 - Sept 2023',
     },
     {
-        title: 'Frontend Developer (Part-time)',
-        company: 'Branex IT',
-        duration: 'Jan 2022 - Oct 2022',
+        title: 'Frontend Developer (Full-time)',
+        company: 'Smart Garage by Pikpart',
+        duration: 'April 2021 - Aug 2021',
     },
 ];

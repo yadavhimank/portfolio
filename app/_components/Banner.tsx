@@ -48,9 +48,9 @@ const Banner = () => {
                     <p className="banner-description slide-up-and-fade mt-6 text-lg text-muted-foreground">
                         Hi! I&apos;m{' '}
                         <span className="font-medium text-foreground">
-                            Tajmirul
+                            Vaibhav Verma
                         </span>
-                        . A creative Frontend Developer with 3+ years of
+                        . A creative Frontend Developer with 5+ years of
                         experience in building high-performance, scalable, and
                         responsive web solutions.
                     </p>
@@ -69,7 +69,7 @@ const Banner = () => {
                 <div className="md:absolute bottom-[10%] right-[4%] flex md:flex-col gap-4 md:gap-8 text-center md:text-right">
                     <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
-                            3+
+                            5+
                         </h5>
                         <p className="text-muted-foreground">
                             Years of Experience
