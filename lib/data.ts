@@ -16,7 +16,10 @@ export const SOCIAL_LINKS = [
         name: 'linkedin',
         url: 'https://www.linkedin.com/in/vaibhav-verma-codes/',
     },
-    { name: 'facebook', url: 'https://www.facebook.com/tajmirul.2000' },
+    {
+        name: 'facebook',
+        url: 'https://www.linkedin.com/in/vaibhav-verma-codes/',
+    },
     { name: 'Old Version', url: GENERAL_INFO.oldPortfolio },
 ];
 
@@ -259,7 +262,7 @@ export const PROJECTS: IProject[] = [
             '/projects/images/consulting-finance-2.png',
             '/projects/images/consulting-finance-3.png',
         ],
-        sourceCode: 'https://github.com/Tajmirul/crenotive',
+        sourceCode: 'https://www.linkedin.com/in/vaibhav-verma-codes/',
         liveUrl: 'https://crenotive.netlify.app/',
         year: 2023,
         description:
@@ -277,7 +280,7 @@ export const PROJECTS: IProject[] = [
             '/projects/images/devLinks-2.png',
             '/projects/images/devLinks-3.png',
         ],
-        sourceCode: 'https://github.com/Tajmirul/devsLink',
+        sourceCode: 'https://www.linkedin.com/in/vaibhav-verma-codes/',
         liveUrl: 'https://devlinks-demo.vercel.app/auth/signin',
         year: 2023,
         description: `One of the most challenging projects in Frontend Mentor.<br/><br/>

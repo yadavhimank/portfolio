@@ -32,35 +32,20 @@ const Footer = async () => {
 
                 <div className="">
                     <a
-                        href="https://github.com/Tajmirul/portfolio-2.0"
+                        href="https://www.linkedin.com/in/vaibhav-verma-codes/"
                         target="_blank"
                         className="leading-none text-muted-foreground hover:underline hover:text-white"
                     >
                         Design & built by Vaibhav Verma
-                        <div className="flex items-center justify-center gap-5 pt-1">
+                        {/* <div className="flex items-center justify-center gap-5 pt-1">
                             <span className="flex items-center gap-2">
                                 <Star size={18} /> {stargazers_count}
                             </span>
                             <span className="flex items-center gap-2">
                                 <GitFork size={18} /> {forks_count}
                             </span>
-                        </div>
+                        </div> */}
                     </a>
-
-                    {/* Note: If you are not Tajmirul, use this copyright message instead */}
-                    {/* <a href='https://www.me.toinfinite.dev/' className="leading-none text-muted-foreground hover:underline hover:text-white">
-                        Design & built by Vaibhav Verma <br />
-                        Revised by YOUR NAME
-
-                        <div className="flex items-center justify-center gap-5 pt-1">
-                            <span className='flex items-center gap-2'>
-                                <Star size={14} /> {stargazers_count}
-                            </span>
-                            <span className='flex items-center gap-2'>
-                                <GitFork size={14} /> {forks_count}
-                            </span>
-                        </div>
-                    </a> */}
                 </div>
             </div>
         </footer>
